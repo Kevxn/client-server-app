@@ -185,7 +185,7 @@ void send_student_id(int socket1){
     // accepts a socket as a param
 
     // hardcoded student name and ID
-    char sname[26] = "---Kevin Gray | S1715611";
+    char sname[26] = "---Kevin | S1715611";
     // IP address will be determined by code below
     char ipaddr[16];
 

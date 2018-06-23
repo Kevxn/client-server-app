@@ -149,7 +149,7 @@ void send_local_time(int socket){
 }
 
 void send_student_id(int socket1){
-    char sname[26] = "---Kevin Gray | S1715611";
+    char sname[26] = "---Kevin | S1715611";
     char ipaddr[16];
 
     int fd;
